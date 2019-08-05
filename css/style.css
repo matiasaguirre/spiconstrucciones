@@ -692,5 +692,5 @@ ul, li {
  
 .card-text{font-family: 'Darker Grotesque', sans-serif;}
 
-@media (max-width: 576px) { #Clientes{display: none;} #Header{margin-top: 1%;height: 10%} #logospi{margin:1%;} }
+@media (max-width: 576px) { #Clientes{display: none;} #Header{margin-top: 1%;height: 50%} #logospi{margin:1%;} }
 @media (max-width: 770px) { #Clientes{display: none;} }
